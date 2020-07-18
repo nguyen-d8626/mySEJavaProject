@@ -1,4 +1,4 @@
-
+//abstract Employee class 
 import java.time.*;
 
 public abstract class Employee {
@@ -110,9 +110,5 @@ public abstract class Employee {
 				+line + "Phone: " + phoneNum
 				+line + "Role: " +role
 				+line + "Salary: " + salary;
-	}
-
-	
-	
-	
+	}	
 }
